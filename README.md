@@ -2,8 +2,6 @@
 
 In this project, we build a **Tic Tac Toe** game using Flutter. The tutorial covers step-by-step instructions to help you understand how to create this classic game for mobile devices.
 
-![Mobile Tic Tac Toe Game](tic_tac_toe.png)
-
 ## Features
 - Classic **Tic Tac Toe** game for two players.
 - Simple, intuitive UI built using Flutter widgets.
@@ -41,7 +39,7 @@ To run this project, you need to have the following installed:
 - `pubspec.yaml`: Configuration file for dependencies and assets.  
 
 ## Screenshots
-![Game Screenshot](screenshots/tic_tac_toe_game.png)
+![Mobile Tic Tac Toe Game](tic_tac_toe.png)
 
 ## Future Improvements
 - Add single-player mode with AI.  
